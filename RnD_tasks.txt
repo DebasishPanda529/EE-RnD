@@ -1,0 +1,9 @@
+Simulating the SSH model (will be starting with the Kitaev model later) -
+ a) Plot energy eigenvalues of the SSH chain against v/w
+ b) Plot wavefunctions against position (which is represented by the lattice points)
+
+Chapters 8 & 9 of 'Quantum Transport - Atom to Transistor', along with the corresponding simulations.
+
+For NEGF - Refer to the graphene portion of LNE (somewhere around chap 19-22) and the simulations done for the devices in Fig.9.5.4 of the Quantum Transport book. Expected to cover all this stuff before the semester ends.
+
+Next comes the application of NEGF to superconductors, such as simulating S|N|S (Josephson junction), N|S (Andreev), and N|S|N (Kitaev).
